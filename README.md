@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-## Hey 👋, This is Burak Özmen
+### Hey 👋, This is Burak Özmen
 [![Gmail Badge](https://img.shields.io/badge/-burakozmen06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:burakozmen06@gmail.com)](mailto:burakozmen06@gmail.com) 
 ## Hey 👋, 
 [![Linkedin Badge](https://img.shields.io/badge/-buraközmen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buraközmen/)](https://www.linkedin.com/in/burak-özmen/) [![Github Badge](https://img.shields.io/badge/-brkzmn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/brkzmn/)](https://www.github.com/brkzmn/) 
