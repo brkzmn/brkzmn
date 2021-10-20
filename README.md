@@ -2,6 +2,8 @@
 
 ## Hey 👋, This is Burak Özmen
 [![Gmail Badge](https://img.shields.io/badge/-burakozmen06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:burakozmen06@gmail.com)](mailto:burakozmen06@gmail.com) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkzmn&theme=dark&show_icons=true)
+
 
 <!--
 **brkzmn/brkzmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
