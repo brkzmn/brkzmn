@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 ### Hey 👋, This is Burak Özmen
+I am a full stack web development student. I am from Turkey and living in the Netherlands. 
 
 
 - 🌱 I’m currently learning JavaScript
@@ -10,8 +11,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-buraközmen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buraközmen/)](https://www.linkedin.com/in/burak-özmen/) 
 <!-- [![Github Badge](https://img.shields.io/badge/-brkzmn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/brkzmn/)](https://www.github.com/brkzmn/) -->
 ## &#x1f4c8; Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=brkzmn&show_icons=true&include_all_commits=true)](https://github.com/brkzmn/github-readme-stats)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=brkzmn&show_icons=true&include_all_commits=true)](https://github.com/brkzmn/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkzmn&layout=compact)](https://github.com/brkzmn/github-readme-stats)
+-->
+<a href="https://github.com/brkzmn/brkzmn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkzmn&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/brkzmn/brkzmn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brkzmn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
+</a>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
