@@ -21,7 +21,7 @@ I am a full stack web development student. I am from Turkey and living in the Ne
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brkzmn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Burak's GitHub Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkzmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkzmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
