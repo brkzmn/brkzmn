@@ -1,10 +1,9 @@
 <!-- ### Hi there 👋 -->
 
 ### Hey 👋, This is Burak Özmen
-I am a full stack web developer. I am from Turkey and living in the Netherlands. 
+I am a full stack web developer who lives and works in the Netherlands. 
 
-
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning Java and Spring Boot after getting experience in Asp.Net
 - 👯 I’m looking to collaborate on web application projects
 - 💬 Ask me about anything you want
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-burakozmen06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:burakozmen06@gmail.com)](mailto:burakozmen06@gmail.com) 
